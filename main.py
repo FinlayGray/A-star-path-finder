@@ -89,9 +89,6 @@ class Block():
         if self.col < self.total_rows - 1 and not grid[self.row][self.col + 1].is_barrier():
             self.near.append(grid[self.row][self.col + 1])
 
-    #def __lt__(self, other):
-     #   return False
-
 
 def make_grid(rows, width):
     grid = []
@@ -187,7 +184,6 @@ def main_algorithm(draw, grid, start, end):
     return False
 
 
-# change make start and end into s and e keys
 def main():
     g = make_grid(rows, scr_w)
     start = None
