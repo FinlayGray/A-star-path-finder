@@ -1,1 +1,8 @@
 # A-star-path-finder
+This function shows a visulisation of an A* pathfinding algorithm in motion.
+Hover over a square in the grid and press:
+  's' to create the start node
+  'e' to create the end node
+  'left click' to create a barrier
+Press 'c' to clear the screen
+Press 'spacebar' to run the algorithm
