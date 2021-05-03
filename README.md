@@ -5,7 +5,7 @@ Hover over a square in the grid and press:
 
   - 's' to create the start node
   - 'e' to create the end node
-  - 'left click' to create a barrier. You can hold this button and drag acrros the screen to create as many barriers as you want.
+  - 'left click' to create a barrier. You can hold this button and drag across the screen to create as many barriers as you want.
 
 Press 'c' to clear the screen.
 
