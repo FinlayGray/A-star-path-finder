@@ -1,5 +1,5 @@
 # A-star-path-finder
-This function shows a visulisation of an A* pathfinding algorithm in motion.
+This function shows a visulisation of an A* pathfinding algorithm in python
 
 Hover over a square in the grid and press:
 
