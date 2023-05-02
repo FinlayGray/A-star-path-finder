@@ -2,6 +2,8 @@ import pygame as py
 from queue import PriorityQueue
 import sys
 
+
+
 scr_w = 700
 scr_h = 700
 rows = int(scr_w * 0.05)
